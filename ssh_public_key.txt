@@ -1,0 +1,15 @@
+# SSH Public Key
+
+Нижче наведено вміст вашого публічного SSH-ключа. Скопіюйте цей текст та додайте його в GitHub (Settings -> SSH and GPG keys) для доступу без логіну/паролю.
+
+```
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDviSEQUoxqODI+0nctP8RcPa46SLNiyMNf0YEbxKk6ZdNVKDm5qBrDRnka8S5jgiD/sIIFdEm7dH48n/pGIJ0AgrpqVUixcuQUGMckK/HSjaruKgG2kedCj+aK+hAhGbv0GsKciGLoXCVZGAQBBMVKhLSCffLj/JALtywmAoSBAGfJ8xu41Q6yzfWK+oIKAhJbPca0jYYWZ81572E949jk1fxmFrBWDy+6cFJB0tSWdBQCRsqu47EEVyFONIAOlpaE2CFwAlHiFtls/4q5YvSuytTpy8xLtl44ZynkkuhQRE7e+7gelyGV+XYZEAF8srJZWuTV4RK3dm2j+05SXURWoUlmlEZoYrYgNyaXq4UKNfxOu3Uy6oBEyuEY1ZKzhcWM36Em0uRWj5BXkqUwqTxLblmayPysKf5ZBfhLNgeDV4GZweudUuz6aa+vBDx6403kgEB1RftauAT2Epk+Xim4cYmV+nguyQrkKWSQ8MD6pW8AVSXApmjzHAWH+XZBf3Wb9vMTfza2hYh3jVfAcK632EeJsW/J1GwzyrWIehico97JQEcOTotrXTIO8x1lSWEJAy+nA6KrgOtQa/R9hhYjYj+iEhQOv/YMYPohSk30MAKKiwCjnpQteSZP6xjxIwpR4BQKl7ywAkxTCDlQG4RSQX4zTfZ7WM7KDeQnDLKZdQ== michafilatov2005@gmail.com
+```
+
+Щоб додати ключ в GitHub, перейдіть до: https://github.com/settings/keys
+
+---
+
+## Скриншоти
+
+Для виконання завдання можна зробити скриншот цього файлу (або вікна, де видно, що ключ скопійовано) та додати файл з зображенням до репозиторію.
